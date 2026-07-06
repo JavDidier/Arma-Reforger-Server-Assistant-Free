@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+venv/
+.venv/
+env/
+ENV/
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Local settings / generated files
+settings.json
+settings_premium.json
+ArmaReforgerAssistant_Rapports/
+configs/
+*.log
+
+# Server / external tools
+SteamCMD/
+ArmaReforgerServer/
+steamcmd_tmp.zip
+
+# Windows
+Thumbs.db
+Desktop.ini
